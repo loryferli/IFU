@@ -1,0 +1,7 @@
+optimal 2015 stage 3 10m
+Lower bound =  182.69410641365388
+Upper bound =  270.5690862393381
+
+optimal 2015 stage 4 10m
+Lower bound =  370.6264068367713
+Upper bound =  594.7551503722752
