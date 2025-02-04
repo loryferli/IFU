@@ -5,3 +5,6 @@ pulp
 matplotlib
 seaborn
 scikit-learn
+plotly
+shapely
+geopandas
