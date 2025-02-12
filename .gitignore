@@ -1,6 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
 /trips/trips2015_1.5M.csv.zip
 /trips/trips2020_1.5M.csv.zip
 /trips/trips2020_3M.csv.zip
 /2015_shop_locations.csv
 /2020_shop_locations.csv
 /Project IFU 2024-2025.pdf
+/.idea/
